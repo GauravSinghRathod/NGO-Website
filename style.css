@@ -18,11 +18,7 @@ body {
   background-color: #0275d8;
   padding: 10px 10px;
   color: #ffffff;
-<<<<<<< HEAD
-  
-=======
    flex-wrap: wrap; /* --- Added for responsiveness --- */
->>>>>>> c0bea1427e75e225563f8e0e59095a6a37a2e4eb
 }
 
 .navbar .logo {
@@ -34,11 +30,7 @@ body {
   list-style: none;
   display: flex;
   gap: 16px;
-<<<<<<< HEAD
-   
-=======
-   flex-wrap: wrap; /* --- Added for responsiveness --- */
->>>>>>> c0bea1427e75e225563f8e0e59095a6a37a2e4eb
+   flex-wrap: wrap; /* --- Added for responsiveness --- *
 }
 
 .nav-links li a {
@@ -111,8 +103,7 @@ body {
 .section p{
   color:blueviolet;
   font-weight: 200;
-<<<<<<< HEAD
-=======
+
 }
 
 img {
@@ -125,7 +116,6 @@ img {
 /* --- Responsive layout for multiple images --- */
 article img {
   margin: 10px;
->>>>>>> c0bea1427e75e225563f8e0e59095a6a37a2e4eb
 }
 
 
