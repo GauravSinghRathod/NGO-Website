@@ -30,7 +30,7 @@ body {
   list-style: none;
   display: flex;
   gap: 16px;
-   flex-wrap: wrap; /* --- Added for responsiveness --- *
+   flex-wrap: wrap; /* --- Added for responsiveness --- */
 }
 
 .nav-links li a {
